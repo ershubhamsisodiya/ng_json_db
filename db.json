@@ -5,5 +5,51 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "id": 1,
+      "name": "shubham sisodiya",
+      "email": "shubham@email.com"
+    },
+    {
+      "id": 2,
+      "name": "sandeep raghuwanshi",
+      "email": "sandeep@email.com"
+    },
+    {
+      "id": 3,
+      "name": "sheetal sonsale",
+      "email": "sheetal@email.com"
+    },
+    {
+      "id": 4,
+      "name": "akansha chouhan",
+      "email": "akansha@email.com"
+    },
+    {
+      "id": 5,
+      "name": "rishabh kushwah",
+      "email": "rishabh@email.com"
+    },
+    {
+      "id": 6,
+      "name": "laxman prajapat",
+      "email": "laxman@email.com"
+    },
+    {
+      "name": "lomesh yadav",
+      "email": "lomesh@email.com",
+      "id": 7
+    },
+    {
+      "name": "tarun vyas",
+      "email": "tarun@email.com",
+      "id": 8
+    },
+    {
+      "name": "tetstaa",
+      "email": "testaa@gmail.com",
+      "id": 9
+    }
+  ]
 }
